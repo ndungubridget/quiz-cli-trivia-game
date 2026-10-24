@@ -1,23 +1,23 @@
-# Trivia Quiz Game
+# ‌Trivia ‌Quiz ‌Game
 
 ## Description
-This is a JavaScript command-line trivia quiz. It asks questions about JavaScript and keeps track of the player's score.
+Trivia quiz is a JavaScript command line trivia quiz. It asks questions about JavaScript and keeps track of how many questions you answer correctly.
 
 ## Features
-- Multiple-choice questions
-- Correct and incorrect answer feedback
-- Score tracking
-- A timer for each question
+- Multiple choice questions
+- Answer feedback for correct and incorrect answers
+- Score keeping
+- Timer for each question
 - Input validation
-- Final score display
+- Final score
 
-## Requirements
+## Installation
 - Node.js
 
-## How to Run
-1. Clone or download the repository.
-2. Open the project folder in the terminal.
-3. Run `node index.js`.
+## How to Play
+1. Clone or download the project.
+2. Open the project folder in your terminal.
+3. Type `node index.js` into your terminal.
 4. Answer each question by entering 1, 2, 3, or 4.
 
 ## Technologies Used
