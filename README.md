@@ -4,12 +4,12 @@
 Trivia quiz is a JavaScript command line trivia quiz. It asks questions about JavaScript and keeps track of how many questions you answer correctly.
 
 ## Features
-- Multiple choice questions
-- Answer feedback for correct and incorrect answers
-- Score keeping
-- Timer for each question
-- Input validation
-- Final score
+Multiple choice questions
+ Answer feedback for correct and incorrect answers
+Score keeping
+Timer for each question
+Input validation
+Final score
 
 ## Installation
 - Node.js
